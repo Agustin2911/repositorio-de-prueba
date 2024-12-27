@@ -1,0 +1,2 @@
+este directorio es de prueba . en el archivo hola mundo se encuentre una
+funcion basica para saludar a la persona
